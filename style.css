@@ -9,6 +9,7 @@ button
 }
 body
 {
-	background-color:#5955554;
+	background-color:#595554;
+	cursor: url("images/sap.cur"), pointer
 
 }
