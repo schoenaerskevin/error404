@@ -10,6 +10,7 @@ button
 body
 {
 	background-color:#595554;
-i	cursor:url("image/sap.cur")
+	cursor:url(image/sap.cur), pointer
 
 }
+
